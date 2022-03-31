@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TryHackMe Editor</title>
+    </head>
+    <body>
+        <div id="demo">Hi there!</div>
+        <script type="text/javascript">
+            // add your JavaScript here
+        </script>
+    </body>
+</html>
